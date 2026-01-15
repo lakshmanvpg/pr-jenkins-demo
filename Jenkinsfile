@@ -11,6 +11,6 @@ pipeline {
         echo "Testing project"
       }
     }
-  }
+}
 }
 
